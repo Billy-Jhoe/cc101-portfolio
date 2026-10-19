@@ -44,7 +44,7 @@ END
  
 ## My Workspace
  
-!Personal Laptop(images/my-pc.jpg)
+![Personal Laptop](images/my-pc.jpg)
  
 ---
 
